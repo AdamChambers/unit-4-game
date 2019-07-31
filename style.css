@@ -1,0 +1,92 @@
+body {
+    margin: 15px;
+    background-color: wheat;
+}
+#header1 {
+    background-color: seashell;
+    border-style: solid;
+    border-bottom-style: none;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+    border-color: black;
+    color: forestgreen;
+    padding-top: 7px;
+}
+#pDiv {
+    background-color: seashell;
+    text-align: center;
+    border-style: solid;
+    border-width: 4px;
+    border-top-color: steelblue;
+    border-right-color: darkred;
+    border-left-color: rebeccapurple;
+    border-bottom-color: yellowgreen;
+    padding: 3px;
+}
+#directions1 {
+    color: salmon;
+}
+#directions2 {
+    color: dodgerblue;
+}
+#directions3 {
+    color: lightseagreen;
+}
+#directions4 {
+    color: goldenrod;
+}
+#directions5 {
+    color: lightpink;
+}
+#scoreToGet {
+    background-color: lightcyan;
+    font-size: 20px;
+    padding: 10px;
+    font-family: sans-serif;
+    color: darkviolet;
+    text-align: center;
+    border-style: solid;
+    border-color: rebeccapurple;
+    border-right-color: springgreen;
+    border-left-color: springgreen;
+}
+#images {
+    text-align: center;
+    background-color: seashell;
+}
+#yourScore {
+    padding: 10px;
+    font-size:30px;
+    color: snow;
+    background-color: darkolivegreen;
+    border-style: solid;
+    border-top-color: yellow;
+    border-bottom-color: lightsalmon;
+    border-left-color:red;
+    border-right-color: red;
+    text-align: center;
+    font-family: sans-serif;
+}
+#wins {
+    background-color: lightsteelblue;
+    font-size:30px;
+    border-style: solid;
+    border-color: green;
+    padding: 5px;
+    text-align: center;
+    color: green;
+}
+#losses {
+    background-color: lightsteelblue;
+    font-size: 30px;
+    border-style: solid;
+    border-color: red;
+    padding: 5px;
+    text-align: center;
+    color: red;
+}
+#divyiv {
+    background-color: wheat;
+    float: left;
+}
